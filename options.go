@@ -1,7 +1,7 @@
 package xnetwork
 
 import (
-	"totem/pkg/xtls"
+	"github.com/totem-project/xtls"
 )
 
 var NetOptions *ClientOptions
